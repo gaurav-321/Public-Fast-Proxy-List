@@ -12,13 +12,16 @@ Frequently updated proxy lists sorted by protocol. This repository offers easy a
 
 ## 📂 Files
 
-| File Name     | Description                       |
-|---------------|-----------------------------------|
-| `all.txt`     | All working proxies (mixed types) |
-| `http.txt`    | Only working HTTP proxies         |
-| `https.txt`   | Only working HTTPS proxies        |
-| `socks5.txt`  | Only working SOCKS5 proxies       |
-| `socks.txt`   | All SOCKS proxies (SOCKS4 + 5)    |
+| File Name           | Description                       |
+|---------------------|-----------------------------------|
+| `all.txt`           | All working proxies (mixed types) |
+| `http.txt`          | Only working HTTP proxies         |
+| `https.txt`         | Only working HTTPS proxies        |
+| `socks5.txt`        | Only working SOCKS5 proxies       |
+| `socks4.txt`        | Only working SOCKS5 proxies       |
+| `elite.txt`         | Elite level public proxies        |
+| `anonymous.txt`     | Anonymous Level Proxies           |
+| `transparent.txt`   | Transparent Level Proxies         |
 
 ---
 
